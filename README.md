@@ -10,7 +10,7 @@ I've also worked on some videogames as a 2D artist.
 
 ## 🎮 Projects
 Head developer of Suki's Diner,
-Working on some novels and webcomics.
+I'm also working on some novels and webcomics.
 
 ## 🔍 What am I learning?
 I'm learning how to make fun videogames and how to make robots.
