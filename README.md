@@ -11,3 +11,7 @@ I've also worked on some videogames as a 2D artist.
 ## What am I learning?
 I'm learning how to code with Arduino and how to make my own robots.
 
+## Fun facts:
+I've won multiple art competitions.
+I've been interested in programming and technology since I was 6.
+
