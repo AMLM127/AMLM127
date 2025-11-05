@@ -1,16 +1,13 @@
-## Hi there 👋
+## Robotics Student
+I'm a student who is currently learning how to code in general, my dream is to publish some videogames under an indie studio but I also want to make some cool robots.
 
-<!--
-**AMLM127/AMLM127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What can I do?
+I can 3D Model, draw conceptual art and code.
 
-Here are some ideas to get you started:
+## Experience
+I've participated in the Kurios 2025 competition as well as the Mincyt Line Follower competition.
+I've also worked on some videogames as a 2D artist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What am I learning?
+I'm learning how to code with Arduino and how to make my own robots.
+
